@@ -27,7 +27,7 @@
 
 ## :rocket: Sobre o desafio
 
-Nesse desafio, você deve planejar os seus estudos.
+Nesse desafio, você deve planejar os seus estudos...
 
 Para isso, você deve criar um cronograma que irá se adaptar ao seu tempo e ritmo.
 
